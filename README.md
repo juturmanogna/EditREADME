@@ -11,7 +11,7 @@
     + python -m venv genai-env
   - Activate the virtual environment
     + On Windows:
-      + .\genai-env\Scripts\activate
+      * .\genai-env\Scripts\activate
       
 
 ### Agents
