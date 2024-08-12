@@ -50,9 +50,8 @@
 + Homogeneous Multi-Agent Systems
   - All agents in the system are identical in terms of capabilities, roles, and goals.
   - These systems are simpler to design but may be less flexible in handling diverse tasks.
-+ Self-Organizing Multi-Agent Systems
- - Agents autonomously organize themselves without central control, adapting to changes in the environment or task 
-   requirements.
++ Self Organizing Multi-Agent Systems
+ - Agents autonomously organize themselves without central control, adapting to changes in the task requirements.
  - The system's structure emerges from the interactions of the agents.
 
 ### Creating Automated Workflows Using Multi-Agent Systems
@@ -65,5 +64,13 @@
 + Incorporate mechanisms for agents to handle errors, exceptions, or failures in the workflow.
 + Deploy the agents in the appropriate environment like cloud or local machine.
 + Continuously monitor and optimize the performance of agents.
-+ If the workflow grows in complexity, scale the system by adding more agents or enhancing existing ones.  
++ If the workflow grows in complexity, scale the system by adding more agents or enhancing existing ones.
+
+### USE CASE
++ SCOPE
++ SELECT
++ ADAPT AND ALIGN MODEL
++ APPLICATION INTEGRATION
+
+###
 
