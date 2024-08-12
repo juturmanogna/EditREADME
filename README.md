@@ -8,14 +8,10 @@
 + Setting up Virtual Environment:
   - Open a Terminal VS Code
   - Create a virtual environment
-    * ```bash
     + python -m venv genai-env
-    * ```
   - Activate the virtual environment
     + On Windows:
-      * ```bash
       + .\genai-env\Scripts\activate
-      * ```
       
 
 ### Agents
